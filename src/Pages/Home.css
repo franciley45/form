@@ -1,0 +1,16 @@
+
+.conteiner-home {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 600px;
+    padding: 40px;
+    background-color: #ffffff;
+    box-sizing: border-box;
+    box-shadow: #ffffff;
+    border-radius: 10px;
+}
+#home {
+    margin-left: 40%;
+}
